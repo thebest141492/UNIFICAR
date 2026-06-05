@@ -242,7 +242,7 @@ numericColumns.forEach((col) => {
           animate={{ opacity: 1, y: 0 }}
         >
           <h1 className="text-6xl font-bold">
-            Unificador de archivos INF
+            Unificador de archivos INF kike
 
           </h1>
 
